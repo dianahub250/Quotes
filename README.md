@@ -1,12 +1,12 @@
-Project Name: Quotes
+<b>Project Name:</b> Quotes
 
-Author: Diane NGOGA NIYODUKORERA
+<b>Author:</b> Diane NGOGA NIYODUKORERA
 
-Project Description
+<b>Project Description:</b>
 This is a simple Angular 5 application that allows you to create quotes which allows one to add, upvote, downvote or delete a quote.
 
-User Requirements
-The applications allows users to do the following:
+<b>User Requirements
+The applications allows users to do the following:</b>
 
 + Create a new quote.
 + Upvote or downvote a quote.
@@ -18,11 +18,10 @@ The applications allows users to do the following:
 
 
 
-## Installation
+<b>Installation steps<b>
 
 
 
-## Live Demo
-To view the page click here: 
+<b>To view the page click here: </b>
 
 
