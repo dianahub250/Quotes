@@ -23,6 +23,6 @@ The applications allows users to do the following:
 
 
 ## Live Demo
-To view the page click here: [QUOTES](https://imma7.github.io/Quotes/)
+To view the page click here: 
 
 
