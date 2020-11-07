@@ -22,6 +22,6 @@ The applications allows users to do the following:</b>
 
 
 
-<b>To view the page click here: </b>
+<b>To view the page click here: https://dianahub250.github.io/Quotes/.</b>
 
 
